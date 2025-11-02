@@ -32,15 +32,16 @@ aptos-sub-pass/
 
 **1. Dashboard**
 
-![Dashboard](./screenshots/dashboard.jpg)
+![Dashboard](./screenshots/aptos1.png)
+
+![Verify](./screenshots/aptos3.png)
 
 **2. Payment**
 
-![Store Hash](./screenshots/payment.jpg)
+![Verify](./screenshots/aptos4.png)
 
-![Verify](./screenshots/balance.jpg)
+![Verify](./screenshots/aptosfinalimage.png)
 
-![Verify](./screenshots/wallet.jpg)
 
 ---
 
